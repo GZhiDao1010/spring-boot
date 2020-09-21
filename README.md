@@ -1,2 +1,5 @@
-# spring-boot
-spring-boot
+# 功能点
+- 创建SpringBoot项目
+- 多环境配置文件
+- 国际化使用配置,未完成
+- 文件上传

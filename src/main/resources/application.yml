@@ -1,0 +1,5 @@
+server:
+  port: 9998
+book:
+  name: lixiaoqiang
+  value: test-value
